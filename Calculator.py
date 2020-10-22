@@ -2,11 +2,12 @@ def add(a,b):
     sum = a + b 
     print("Sum: ", sum)
 
-
 def sub(a,b):
     sum = a - b 
     print("Difference:",sum) 
 
+def superUsefulErrorChecking():
+    print("SUCCESS! No errors here!")
 
 def multi(a,b):
     sum = a * b
