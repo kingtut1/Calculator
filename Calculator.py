@@ -24,3 +24,5 @@ def main():
     sub(a,b)  
     multi(a,b)
     quotient(a,b)
+
+main()
